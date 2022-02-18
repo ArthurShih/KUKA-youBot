@@ -1,6 +1,6 @@
 # KUKA-youBot
 #### Kinematics Simulator
-![kinsim](https://github.com/ArthurShih/KUKA-youBot/blob/master/Figure%20and%20videos/KinematicsSimulator.mov)
+![kinsim](https://github.com/ArthurShih/KUKA-youBot/blob/master/Figure%20and%20videos/KinematicSimulator.mov)
 ###### .
 #### Trajectory Generator
 ![tragen](https://github.com/ArthurShih/KUKA-youBot/blob/master/Figure%20and%20videos/TrajectoryGenerator.mov)
